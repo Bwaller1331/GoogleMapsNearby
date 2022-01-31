@@ -18,6 +18,8 @@ git clone git@github.com:Bwaller1331/GoogleMapsNearby.git
 cd GoogleMapsNearby
 
 npm start
+
+open your web browser and type in localhost:3010 in the url
 ```
 
 ## Author
