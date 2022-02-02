@@ -2,7 +2,7 @@
 
 ## Description
 
-- Developer project to display nearby restaurant information and markers using the Google Maps Api and NodeJs
+- Developer project to display nearby restaurant information and markers using the Google Maps Api and NodeJs, click on the markers to reveal a sidebar panel that displays information about the location.
 
 ## Technologies Used
 - NodeJs
